@@ -7,9 +7,6 @@ body {
 }
 
 #kangaroo {
-    border-style: solid;
-    border-color: red;
-    border-width: 5px; 
-    width: 200px;
-    height: 200px;
+    width: 600px;
+    height: 600px;
 }
