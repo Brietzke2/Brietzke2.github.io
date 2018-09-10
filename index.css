@@ -22,8 +22,13 @@ body {
 }
 
 #kangaroo {
-    width: 200px;
-    height: 100px;
+    width: 400px;
+    height: 300px;
     border-style: solid;
     float: right;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+
+
 }
