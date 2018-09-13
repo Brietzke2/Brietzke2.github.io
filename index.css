@@ -2,20 +2,21 @@
 h1 {
     color: seagreen;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 10px;
 }
 h2 {
     color: seagreen;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 5px;
 }
 h3 {
     color: seagreen;
-    font-size: 5px;
+    font-size: 3px;
 }
 body {
     font-family: 'Montserrat', sans-serif;
 }
 #kangaroo {
-    background-image:fixed;
+    float:left;
+    width: 33.33%
 }
