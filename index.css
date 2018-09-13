@@ -2,21 +2,41 @@
 h1 {
     color: seagreen;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 20px;
 }
 h2 {
     color: seagreen;
     font-weight: bold;
-    font-size: 5px;
+    font-size: 15px;
 }
 h3 {
     color: seagreen;
-    font-size: 3px;
+    font-size: 10px;
+}
+h4{
+    font-size: 8px
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: coral
+}
+
+.card{
+    font-size: 10px
 }
 #kangaroo {
     float:left;
-    width: 33.33%
+    width: 33.33%;
+}
+
+#montreal { 
+    width: 33.33%;
+
+}
+
+#hiking {
+    width= 33.33%;
+}
+
+#
 }
