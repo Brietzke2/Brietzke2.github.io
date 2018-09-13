@@ -2,26 +2,32 @@
 h1 {
     color: seagreen;
     font-weight: bold;
-    font-size: 5em;
+    font-size: 3em;
 }
 h2 {
     color: seagreen;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 2em;
 }
 h3 {
     color: seagreen;
     font-size: 1em;
 }
 h4{
-    font-size: 4em;
+    font-size: 0.5em;
 }
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: white
 }
-
-.card {
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
     font-size: 2em;
-    width:33.33%;
+}
+
+.row {
+    clear: both;
+    display: table;
 }
