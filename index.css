@@ -22,10 +22,9 @@ body {
 .column {
     float: left;
     width: 33.33%;
-    height: 50px;
+    height: 33.33%
     padding: 5px;
     font-size: 2em;
-
 }
 
 .section {
