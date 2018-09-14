@@ -13,8 +13,10 @@ h3 {
     font-size: 1em;
 }
 h4 {
+    color: seagreen
     font-size: 20px;
 p {
+    color: seagreen
     font-size: 14px;
 }
 body {
@@ -24,6 +26,7 @@ body {
 .column {
     float: left;
     width: 33.33%;
+    height: 200px;
     padding: 5px;
     font-size: 2em;
 }
@@ -34,6 +37,4 @@ body {
     display: table-row-group;
 }
 
-div { height: 200px;
-      padding: 5px;
-}
+
