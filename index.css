@@ -2,18 +2,18 @@
 h1 {
     color: seagreen;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 3em;
 }
 h2 {
     color: seagreen;
-    font-size: 16em;
+    font-size: 2em;
 }
 h3 {
     color: seagreen;
-    font-size: 14px;
+    font-size: 1em;
 }
 h4{
-    font-size: 12px;
+    font-size: 20px;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -22,9 +22,9 @@ body {
 .card {
     float: auto;
     width: 33.33%;
-    length: 200px
+    length: 200px;
     padding: 5px;
-    font-size: 2em;
+    font-size: 2;
 
 }
 
