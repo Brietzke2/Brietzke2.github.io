@@ -12,7 +12,7 @@ h3 {
     color: seagreen;
     font-size: 1em;
 }
-h4{
+h4 {
     font-size: 20px;
 }
 body {
@@ -20,9 +20,13 @@ body {
     background-color: white;
 }
 .card {
-    float: auto;
+    float: left;
     width: 33.33%;
-    length: 200px;
+    height: 200px;
     padding: 5px;
-    font-size: 2;
+    font-size: 2em;
+}
+
+.section {
+    width: 33.33%
 }
