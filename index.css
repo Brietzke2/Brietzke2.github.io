@@ -22,7 +22,6 @@ body {
 .column {
     float: left;
     width: 33.33%;
-    height: 33.33%
     padding: 5px;
     font-size: 2em;
 }
@@ -31,4 +30,19 @@ body {
     align-content: center;
     clear: both;
     display: table-row-group;
+}
+
+#montreal {
+    height: 100px;
+    padding: 5px;
+}
+
+#kangaroo {
+    height: 100px;
+    padding: 5px;
+}
+
+#hiking {
+    height: 100px;
+    padding: 5px;
 }
