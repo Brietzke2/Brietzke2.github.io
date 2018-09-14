@@ -25,10 +25,4 @@ body {
     length: 200px;
     padding: 5px;
     font-size: 2;
-
-}
-
-.row {
-    clear: both;
-    display: table;
 }
