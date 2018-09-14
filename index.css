@@ -25,6 +25,11 @@ body {
     height: 200px;
     padding: 5px;
     font-size: 2em;
-    display: inline;
+}
+
+.section {
+    align-content: center;
     clear: both;
+    display: table;
+
 }
