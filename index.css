@@ -34,17 +34,6 @@ body {
     display: table-row-group;
 }
 
-#montreal {
-    height: 200px;
-    padding: 5px;
-}
-
-#kangaroo {
-    height: 200px;
-    padding: 5px;
-}
-
-#hiking {
-    height: 200px;
-    padding: 5px;
+div { height: 200px;
+      padding: 5px;
 }
