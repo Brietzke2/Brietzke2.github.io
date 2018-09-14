@@ -19,15 +19,16 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: white;
 }
-.card {
-    padding: 5px;
-    font-size: 2em;
-}
-
-.section {
+.column {
     float: left;
     width: 33.33%;
     height: 50px;
+    padding: 5px;
+    font-size: 2em;
+
+}
+
+.section {
     align-content: center;
     clear: both;
     display: table-row-group;
