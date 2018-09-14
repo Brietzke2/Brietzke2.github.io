@@ -29,4 +29,6 @@ body {
 
 .section {
     width: 33.33%
+    clear: both;
+    display: inline;
 }
