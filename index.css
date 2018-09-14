@@ -20,15 +20,15 @@ body {
     background-color: white;
 }
 .card {
-    float: left;
-    width: 33.33%;
-    height: 50px;
-    padding: 5px
+    padding: 5px;
     font-size: 2em;
 }
 
 .section {
+    float: left;
+    width: 33.33%;
+    height: 50px;
     align-content: center;
     clear: both;
-    display: table-row-group
+    display: table-row-group;
 }
