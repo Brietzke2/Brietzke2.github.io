@@ -6,7 +6,6 @@ h1 {
 }
 h2 {
     color: seagreen;
-    font-weight: bold;
     font-size: 16em;
 }
 h3 {
@@ -18,13 +17,15 @@ h4{
 }
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: white
+    background-color: white;
 }
 .card {
-    float: left;
+    float: auto;
     width: 33.33%;
+    length: 200px
     padding: 5px;
     font-size: 2em;
+
 }
 
 .row {
