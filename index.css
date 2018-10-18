@@ -26,12 +26,12 @@ body {
 }
 .column {
     float: left;
-    height: 100px 
+    height: 50px 
     padding: 5px;
 }
 .row {
     width: 33.33%;
-    height: 100px;
+    height: 50px;
     display: table;
 }
 
