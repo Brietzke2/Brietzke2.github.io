@@ -26,15 +26,14 @@ body {
 }
 .column {
     float: left;
-    width: 33.33%;
-    height: 200px;
+    height: 100px 
     padding: 5px;
-    font-size: 2em;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows;
 }
-
+.row {
+    width: 33.33%;
+    height: 100px;
+    display: table;
+}
 
 
 
