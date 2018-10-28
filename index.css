@@ -2,15 +2,15 @@
 h1 {
     color: rgb(62, 190, 199);
     font-weight: bold;
-    font-size: 4em;
+    font-size: 6em;
 }
 h2 {
     color: darkcyan;
-    font-size: 2em;
+    font-size: 4em;
 }
 h3 {
     color: darkcyan;
-    font-size: 1em;
+    font-size: 2em;
 }
 h4 {
     color: darkcyan;
@@ -31,23 +31,5 @@ body {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-}
-
-.column {
-    -ms-flex-preferred-size: 0;
-    flex-basis: 0;
-    -ms-flex-positive: 1;
-    flex-grow: 1;
-    max-width: 33.33%;
-  }
-
-.row {
-    display: -ms-flexbox;
-    width: 33.33%;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
