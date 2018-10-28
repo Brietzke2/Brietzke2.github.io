@@ -22,10 +22,8 @@ p {
 }
 body {
     font-family: 'Montserrat', sans-serif;
-    background-image: url ("http://alexinkegypt.com/wp-content/uploads/2017/05/119.jpg") no-repeat fixed center; 
+    background-image: url ("http://alexinkegypt.com/wp-content/uploads/2017/05/119.jpg") repeat-x fixed center; 
 }
-
-
 .container-fluid {
     width: 33.33%;
     padding-right: 15px;
