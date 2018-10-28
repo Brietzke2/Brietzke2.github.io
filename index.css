@@ -1,39 +1,55 @@
 
 h1 {
-    color: seagreen;
+    color: rgb(0, 130, 139);
     font-weight: bold;
     font-size: 3em;
 }
 h2 {
-    color: seagreen;
+    color: darkcyan;
     font-size: 2em;
 }
 h3 {
-    color: seagreen;
+    color: darkcyan;
     font-size: 1em;
 }
 h4 {
-    color: seagreen;
+    color: darkcyan;
     font-size: 20px;
 }
 p {
-    color: seagreen;
+    color: darkcyan;
     font-size: 14px;
 }
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: white;
+
+#background { 
+    display: background-image: align-self:
 }
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
 .column {
-    float: left;
-    height: 50px 
-    padding: 5px;
-}
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+
 .row {
-    width: 33.33%;
-    height: 50px;
-    display: table;
+    display: -ms-flexbox;
+    width: 33.33%
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
 }
-
-
 
