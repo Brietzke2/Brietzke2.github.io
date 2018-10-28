@@ -24,6 +24,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: white;
     background-image: align-self;
+    background-position: center;
+    background-attachment: fixed;
+
 
 .container-fluid {
     width: 33.33%;
@@ -32,4 +35,6 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+
+
 
