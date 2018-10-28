@@ -1,8 +1,8 @@
 
 h1 {
-    color: rgb(0, 130, 139);
+    color: rgb(62, 190, 199);
     font-weight: bold;
-    font-size: 3em;
+    font-size: 4em;
 }
 h2 {
     color: darkcyan;
@@ -23,29 +23,27 @@ p {
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: white;
-
-#background { 
-    display: background-image: align-self:
-}
+    background-image: align-self;
 
 .container-fluid {
-    width: 100%;
+    width: 33.33%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+}
 
 .column {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
     -ms-flex-positive: 1;
     flex-grow: 1;
-    max-width: 100%;
+    max-width: 33.33%;
   }
 
 .row {
     display: -ms-flexbox;
-    width: 33.33%
+    width: 33.33%;
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
